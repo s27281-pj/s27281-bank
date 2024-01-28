@@ -1,1 +1,1 @@
-rootProject.name = "s27281_bank"
+rootProject.name = "s27281-bank"
